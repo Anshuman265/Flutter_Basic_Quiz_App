@@ -1,16 +1,16 @@
-# max_o_max
+# Quiz App
 
-A new Flutter project.
+A Flutter project in which the meals are categorized and can be filtered with the help of 5 filters.Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 
-## Getting Started
+## Features:
+1. Fliter by ingredient
+2. Side Bar Drawer
+3. Marking a meal as favourite
+4. Categories
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Running the app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Command to run the app - `flutter run`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
